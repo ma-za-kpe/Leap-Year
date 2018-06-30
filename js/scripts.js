@@ -1,13 +1,9 @@
 
 //BUISNESS LOGIC
 
-
-
-
-
-
-
-
+var leapYear = function () {
+  return false;
+}
 
 
 
